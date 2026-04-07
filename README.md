@@ -127,7 +127,7 @@ All passages are public domain. Sources:
 ```
 @article{21cq2-literary-translation-2026,
   title={Cross-Lingual Work-Level Discrimination in Transformer Residual Streams: Evidence from Literary Translation},
-  author={21CQ2 LLC},
+  author={Mahon, Connor},
   year={2026},
   url={https://github.com/21cq2/literary-translation-paradigm}
 }
