@@ -2,7 +2,7 @@
 
 **Causally Implicated Content Representations in Transformer Residual Streams: A Literary Translation Paradigm**
 
-21CQ2 LLC — Independent AI Interpretability Research
+Connor Mahon - 21CQ2 LLC — Independent AI Interpretability Research
 
 *Working draft — manuscript in preparation*
 
